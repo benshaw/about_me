@@ -1,7 +1,3 @@
-# Who Is **Ben Shaw**
-
-**Nerd that likes to be outside**
-
 ## Who Am I:
 By day I lead Software Development teams with a specialty in ML. By night I ride bikes, climb rocks, ski mountains or train to get the most out of life. You can generally find me outside on a random adventure anytime possible.
 
