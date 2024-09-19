@@ -15,13 +15,13 @@ I have worked in a variety of industries but I think working in the Avalanche In
 
 In this environment   
 - It is very important to leave your ego at the door and have an  environment where everyone feels comfortable discussing their observations and thoughts. It is important that even if you are not the  leader you are willing to disagree or bring new thoughts to the table  thus avoiding [groupthink](https://en.wikipedia.org/wiki/Groupthink)
-- Quick information is vital, and not all information needs to be  polished. I work on the "Principle of least surprise" the idea being you want to be surprised as little as possible by having the pertinent information. When in the backcountry we are always talking about what we see even if the other person has seen this
+- Quick information is vital, and not all information needs to be  polished. I work on the "Principle of least surprise" the idea being you want to be surprised as little as possible by having the pertinent information. When in the backcountry we are always talking about what we see even if the other person has seen this, this ensures nothing goes missed.
 - You make a plan based on a hypothesis of current conditionas, but  you must always be willing to take in new information and reasses as this information becomes available.
    
 Through this I have developed a communication style where I have a preference for:
 - Candid respectful communication, even when it is uncomfortable. ["Seek First to Understand, Then to Be Understood"](https://www.franklincovey.com/the-7-habits/habit-5/)
 - Providing information quickly, this means in person communication is not always an option and there is not always time to polish this information fully. This might look like dropping a message in slack with a follow up document later on, rather than writing the document first. This also means my door is always open and never mind being interupted. 
-- Avoiding analysis paralayis and making a plan with current information knowing that is may not be perfect and being willing to revisit or pivot if new information becomes available.
+- Avoiding analysis paralayis and making a plan with current information knowing that is may not be perfect and being willing to revisit or pivot if new information becomes available. This also requires decision to be explicit and attempting to avoid assumptions
 
 ## Hobbies:
  - Reading (see my reading [list](https://github.com/benshaw/reading) for more)
