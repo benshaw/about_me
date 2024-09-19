@@ -42,3 +42,4 @@ Through this I have developed a communication style where I have a preference fo
  - https://powdercanada.com/avalanche-powder-info/mountain-information-network/
  - https://snoriderswest.com/article/safety/avalanche_canada_launches_easy_to_use_mountain_information_network
  - https://avalanche.ca/cherry-bowl#/intro
+ - https://avalanche.ca/map
