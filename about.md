@@ -15,7 +15,7 @@ I have worked in a variety of industries but I think working in the Avalanche In
 
 In this environment   
 - It is very important to leave your ego at the door and create a space where everyone feels comfortable discussing their observations and thoughts. It is important that even if you are not the leader you are willing to disagree or bring new thoughts to the table thus avoiding [groupthink](https://en.wikipedia.org/wiki/Groupthink)
-- Quick information is vital, and not all information needs to be  polished. I work on the "Principle of least surprise" the idea being you want to be surprised as little as possible by having the pertinent information. When in the backcountry we are always talking about what we see even if we think the other person has seen this, this ensures nothing goes missed. [The only true measure of code quality](https://www.osnews.com/story/19266/wtfsm/)
+- Quick information is vital, and not all information needs to be  polished. I work on the "Principle of least surprise" the idea being you want to be surprised as little as possible by having the pertinent information. When in the backcountry we are always talking about what we see even if we think the other person has seen this, this ensures nothing goes missed. [The only valid measurement of code quality](https://www.osnews.com/story/19266/wtfsm/)
 - You make a plan based on a hypothesis of current conditionas, but  you must always be willing to take in new information and reasses as this information becomes available.
    
 Through this I have developed a communication style where I have a preference for:
