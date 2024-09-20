@@ -21,7 +21,7 @@ In this environment
 Through this I have developed a communication style where I have a preference for:
 - Candid respectful communication, even when it is uncomfortable. ["Seek First to Understand, Then to Be Understood"](https://www.franklincovey.com/the-7-habits/habit-5/)
 - Providing information quickly, this means in person communication is not always an option and there is not always time to polish this information fully. This might look like dropping a message in slack with a follow up document later on, rather than writing the document first. This also means my door is always open and I never mind being interupted. 
-- Avoiding analysis paralayis and making a plan with current information knowing that is may not be perfect and being willing to revisit or pivot if new information becomes available. This also requires decision to be explicit, attempting to avoid assumptions and being explicit about what we do and don't know.
+- Avoiding analysis paralayis and making a plan with current information knowing that it may not be perfect and being willing to revisit or pivot if new information becomes available. This also requires decisions to be explicit, attempting to avoid assumptions and being explicit about how much we do and don't know.
 
 ## Hobbies:
  - Reading (see my reading [list](https://github.com/benshaw/reading) for more)
